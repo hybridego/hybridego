@@ -75,5 +75,3 @@ Thanks for visiting! Let's build something awesome together 🚀
 </div>
 
 ---
-
-*This README is inspired by modern GitHub profile trends – feel free to tweak badges, add your GitHub stats card, or integrate tools like shields.io for more flair!*
