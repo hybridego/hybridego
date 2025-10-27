@@ -53,6 +53,7 @@ I'm a seasoned Embedded Systems and Application Development Engineer with over 1
 
 ## 🎯 Featured Projects
 
+- **Kakao Home**: Backend development of IoT Device Control system
 - **Kakao Mini Series**: Full-stack development of Android-based smart speakers, including porting, HAL customizations, and audio tuning (Yocto Linux, Qualcomm QCS404).
 - **Indoor Serving Robot**: ROS2-based navigation and server integration with MQTT and KakaoTalk Chatbot.
 - **Smart Office Dashboard**: BLE sensor networks with Django backend and Vue3 frontend for real-time monitoring.
