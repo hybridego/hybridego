@@ -14,11 +14,10 @@ I'm a seasoned Embedded Systems and Application Development Engineer with over 1
 
 - 🔭 **Currently working on**: Camera video control systems and Public Address Systems at Hanwha Vision (using C++, Buildroot, GStreamer, and Pipewire).
 - 🌱 **Currently learning**: Advanced ROS2 for robotics and Matter protocol for smart home interoperability.
-- 👯 **Looking to collaborate on**: Open-source IoT projects, Android HAL customizations, or multimedia frameworks like FFmpeg/GStreamer.
+- 👯 **Looking to collaborate on**: Open-source IoT projects, Android HAL customizations, or multimedia frameworks like FFmpeg/GStreamer or Android Applications.
 - 🤔 **Looking for help with**: Optimizing real-time audio processing in edge devices.
 - 💬 **Ask me about**: Android NDK internals, Bluetooth stack modifications, or embedded Linux porting.
 - 📫 **How to reach me**: [hybridego@gmail.com](mailto:hybridego@gmail.com)
-- 😄 **Pronouns**: He/Him
 - ⚡ **Fun fact**: I authored *All About Android NDK* (2012, Hanbit Media) – a go-to book for early Android developers!
 
 ## 🛠️ Skills
