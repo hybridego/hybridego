@@ -63,8 +63,8 @@ Check out my repos for code samples: [GitHub Repos](https://github.com/hybridego
 
 ## 🌐 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hochul-jeon-/) <!-- Add your LinkedIn if available -->
-[![Blog](https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=wordpress&logoColor=white)](https://hybridego.github.io/) <!-- Your blog -->
-[![Blog](https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=wordpress&logoColor=white)](https://hybridego.net/) <!-- Your blog -->
+[![Blog_1](https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=wordpress&logoColor=white)](https://hybridego.github.io/) <!-- Your blog -->
+[![Blog_2](https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=wordpress&logoColor=white)](https://hybridego.net/) <!-- Your blog -->
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hybridego@gmail.com)
 
 <div align="center">
