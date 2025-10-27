@@ -54,10 +54,10 @@ I'm a seasoned Embedded Systems and Application Development Engineer with over 1
 ## 🎯 Featured Projects
 
 - **Kakao Home**: Backend development of IoT Device Control system
-- **Kakao Mini Series**: Full-stack development of Android-based smart speakers, including porting, HAL customizations, and audio tuning (Yocto Linux, Qualcomm QCS404).
+- **Kakao Mini Series**: Full-stack development of Android-based smart speakers, including porting, HAL customizations, and audio tuning.
 - **Indoor Serving Robot**: ROS2-based navigation and server integration with MQTT and KakaoTalk Chatbot.
 - **Smart Office Dashboard**: BLE sensor networks with Django backend and Vue3 frontend for real-time monitoring.
-- **Home Appliance Control**: SSDP/UPnP integration for voice-controlled appliances via smart speakers.
+- **Home Appliance Control**: Matter/Thread integration for voice-controlled appliances via smart speakers.
 - **Unmanned Store Verification**: AI-driven camera and weight sensor system for product tracking.
 
 Check out my repos for code samples: [GitHub Repos](https://github.com/hybridego?tab=repositories)
