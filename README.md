@@ -37,9 +37,7 @@ I'm a seasoned Embedded Systems and Application Development Engineer with over 1
 - **IDEs & Tools**: Vim, Android Studio, IntelliJ, VS Code, JIRA, Git
 - **Frontend/Other**: QT, SDL, Vue3, Electron (Node.js)
 
-### Certifications & Publications
-- Vocational Training Instructor Level 3 (2009)
-- Information Processing Technician (2007)
+### Publications
 - **Publication**: *All About Android NDK* (2012)
 
 ## 📈 Work Experience Highlights
@@ -62,10 +60,6 @@ I'm a seasoned Embedded Systems and Application Development Engineer with over 1
 - **Unmanned Store Verification**: AI-driven camera and weight sensor system for product tracking.
 
 Check out my repos for code samples: [GitHub Repos](https://github.com/hybridego?tab=repositories)
-
-## 📚 Education
-- **B.S. in Internet Software Engineering (Multimedia)**  
-  Korea University of Technology and Education
 
 ## 🌐 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hochul-jeon-/) <!-- Add your LinkedIn if available -->
