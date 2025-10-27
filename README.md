@@ -12,7 +12,7 @@ I'm a seasoned Embedded Systems and Application Development Engineer with over 1
 
 ## 🚀 About Me
 
-- 🔭 **Currently working on**: Body Worn Camera video control systems and Public Audio Systems at Hanwha Vision (using C++, Buildroot, GStreamer, and Pipewire).
+- 🔭 **Currently working on**: Camera video control systems and Public Address Systems at Hanwha Vision (using C++, Buildroot, GStreamer, and Pipewire).
 - 🌱 **Currently learning**: Advanced ROS2 for robotics and Matter protocol for smart home interoperability.
 - 👯 **Looking to collaborate on**: Open-source IoT projects, Android HAL customizations, or multimedia frameworks like FFmpeg/GStreamer.
 - 🤔 **Looking for help with**: Optimizing real-time audio processing in edge devices.
