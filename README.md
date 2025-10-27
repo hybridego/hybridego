@@ -1,10 +1,10 @@
 <div align="center">
 
-# Hi there, I'm HoChul Jeon (Lionel) 👋
+# Hi there, I'm Lionel J 👋
 
 ![Embedded Systems & Android Enthusiast](https://img.shields.io/badge/Embedded%20Systems%20%26%20Android-Enthusiast-brightgreen?style=for-the-badge&logo=android&logoColor=white)
 
-I'm a seasoned Embedded Systems and Application Development Engineer with over 15 years of experience in Linux and Android-based firmware, platform, and server development. From early Android porting (Cupcake era) to modern IoT and smart devices, I've specialized in Camera, Audio, SurfaceFlinger, and Multimedia HAL/Framework. Passionate about building innovative solutions for smart speakers, robots, and IoT ecosystems using C/C++, Python, Go, and Kotlin.
+I'm a seasoned Embedded Systems and Application Development Engineer with over 15 years of experience in Linux and Android-based HAL, application, platform, and server development. From early Android porting (Cupcake era) to modern IoT and smart devices, I've specialized in Camera, Audio, SurfaceFlinger, and Multimedia HAL/Framework. Passionate about building innovative solutions for smart speakers, robots, and IoT ecosystems using C/C++, Python, Go, and Kotlin.
 
 > "The road is under your feet, the heart looks to the distance"
 
