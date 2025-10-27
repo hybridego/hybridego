@@ -44,7 +44,7 @@ I'm a seasoned Embedded Systems and Application Development Engineer with over 1
 
 | Period | Company | Key Projects |
 |--------|---------|--------------|
-| **May 2024 – Present** | [Hanwha Vision](https://www.hanwhavision.com/) | Body Worn Camera (C++, HW Codec) & Public Audio System (GStreamer, RTP, Multicast) |
+| **May 2024 – Present** | [Hanwha Vision](https://www.hanwhavision.com/) | Camera (C++, HW Codec) & Public Audio System (GStreamer, RTP, Multicast) |
 | **Sep 2023 – May 2024** | [Hyundai Autoever](https://www.hyundai-autoever.com/) | Android Automotive OS-Navigation (Kotlin, AIDL, D-Bus) |
 | **Dec 2019 – Aug 2023** | [Kakao Enterprise](https://www.kakaoenterprise.com/) | Kakao Home IoT Platform (Spring Boot, Kubernetes), Robot Tech (ROS2, SLAM), Smart Office (Nordic nRF52840, Matter), Kakao Mini Audio Enhancements |
 | **Oct 2014 – Nov 2019** | [Kakao](https://www.kakaocorp.com/) | Kakao Mini Smart Speakers (Android BSP, Bluetooth Stack), IDC Sensors (ESP32, MQTT), Video Encoder Servers (FFmpeg, NVENC) |
